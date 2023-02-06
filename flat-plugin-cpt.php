@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Flat 101 CPT
-Plugin URI: https://www.flat101.es/
+Plugin Name: Tiendas
+Plugin URI: https://www.penkode.com/
 Description: This plugin creates a custom post called "Tiendas" with custom fields. Enjoy and be happy!!
 Version: 0.0.1
-Author URI: https://www.flat101.es/
+Author URI: https://www.penkode.com/
 */
 
 
